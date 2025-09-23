@@ -1,6 +1,6 @@
 ## Name : T.Rishabh srivatsav </br>
 ## Reg no: 25001966 </br>
-## EX2  # Control-of-Relay-Using-IoT-controller </br>
+## EX.No 2: Control-of-Relay-Using-IoT-controller </br>
 
 ##  AIM:
 To control the Relay using Arduino controller
